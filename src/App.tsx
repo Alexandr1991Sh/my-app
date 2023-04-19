@@ -6,6 +6,7 @@ function App() {
     <div className="App">
      Test
         commit 2
+        commit 3
     </div>
   );
 }
