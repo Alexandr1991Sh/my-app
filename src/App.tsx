@@ -7,6 +7,9 @@ function App() {
      Test
         commit 2
         commit 3
+        commit 3
+        commit 3
+        commit 5
     </div>
   );
 }
